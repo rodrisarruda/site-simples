@@ -1,2 +1,2 @@
 # site-simples
- Site simples criando no curso de Web Design da Fundação Bradesco
+ Site simples criado no curso de Web Design da Fundação Bradesco
